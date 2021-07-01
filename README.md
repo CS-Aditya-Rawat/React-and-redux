@@ -1,6 +1,6 @@
-# Explanation on medium
+# Explanation on Medium 📚
 
-Open [https://medium.com/@CS-Aditya-Rawat/learn-react-and-redux-with-a-project-2021-f13b1404fdad](article) this to know more.
+👉[Click me to know more](https://medium.com/@CS-Aditya-Rawat/learn-react-and-redux-with-a-project-2021-f13b1404fdad) 👈
 
 ## Getting Started with Create React App
 
