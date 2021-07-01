@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Explanation on medium
+
+Open [https://medium.com/@CS-Aditya-Rawat/learn-react-and-redux-with-a-project-2021-f13b1404fdad](article) this to know more.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
