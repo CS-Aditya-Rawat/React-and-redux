@@ -2,6 +2,8 @@
 
 👉[Click me to know more](https://medium.com/@CS-Aditya-Rawat/learn-react-and-redux-with-a-project-2021-f13b1404fdad) 👈
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9b659522-c10c-43f6-8918-ecdb7cb796fe/deploy-status)](https://app.netlify.com/sites/fakeshopy/deploys)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
